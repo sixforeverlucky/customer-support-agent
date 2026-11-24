@@ -1,0 +1,4 @@
+[
+  {"orderId":"DEMO-1001","email":"demo@example.com","status":"运输中","carrier":"演示快递","eta":"2026-12-03"},
+  {"orderId":"DEMO-1002","email":"buyer@example.com","status":"已签收","carrier":"演示快递","eta":"2026-11-18"}
+]
